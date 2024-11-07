@@ -1,4 +1,4 @@
-Mi Proyecto de HTML Semántico
+#Mi Proyecto de HTML Semántico
 Este es un proyecto de práctica que demuestra el uso de HTML semántico para estructurar una página web básica, incluyendo varias páginas con una barra de navegación, metaetiquetas SEO y un formulario de contacto.
 
 Descripción
