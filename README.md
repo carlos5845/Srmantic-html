@@ -14,4 +14,4 @@ Este proyecto está diseñado para:
 Este proyecto es una introducción a la estructuración de un sitio web con HTML semántico y SEO básico, antes de pasar al siguiente paso en el que se estilizará el sitio con CSS.
 ## Cómo Acceder al Proyecto
 Puedes ver el código fuente y clonar el proyecto desde el siguiente repositorio de GitHub:
-[URL de tu repositorio de GitHub](https://github.com/tu-usuario/tu-repositorio)
+[URL de tu repositorio de GitHub]([https://github.com/tu-usuario/tu-repositorio](https://github.com/carlos5845/Srmantic-html/tree/main))
