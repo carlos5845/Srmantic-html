@@ -12,3 +12,6 @@ Este proyecto está diseñado para:
 - **Proporcionar** un formulario de contacto funcional con campos para Nombre, Email y Mensaje.
 
 Este proyecto es una introducción a la estructuración de un sitio web con HTML semántico y SEO básico, antes de pasar al siguiente paso en el que se estilizará el sitio con CSS.
+## Cómo Acceder al Proyecto
+Puedes ver el código fuente y clonar el proyecto desde el siguiente repositorio de GitHub:
+[URL de tu repositorio de GitHub](https://github.com/tu-usuario/tu-repositorio)
